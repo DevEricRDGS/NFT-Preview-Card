@@ -1,0 +1,9 @@
+:root{
+    --primary-blue-500: hsl(215, 51%, 70%);
+    --primary-cyan-400: hsl(178, 100%, 50%);
+
+    --neutral-main-bg: hsl(217, 54%, 11%);
+    --neutral-card-bg: hsl(216, 50%, 16%);
+    --neutral-blue-line: hsl(215, 32%, 27%);
+    --neutral-white: hsl(0, 0%, 100%);
+}
